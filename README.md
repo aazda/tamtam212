@@ -4,7 +4,7 @@
 
 ## ✨ Fitur
 
-$PUCUK
+Claim Token Airdrop $PUCUK
 An infinite Meme community on TEA-L2
 
 ## 🧱 Technologi
