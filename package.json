@@ -2,6 +2,17 @@
   "name": "tamtam212",
   "version": "0.1.0",
   "private": true,
+  "description": "Tamtam212 is a Web3 project built with Next.js and Thirdweb for decentralized application development.",
+  "author": "devnoob",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aazda/tamtam212.git"
+  },
+  "homepage": "https://github.com/aazda/tamtam212#readme",
+  "bugs": {
+    "url": "https://github.com/aazda/tamtam212/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
