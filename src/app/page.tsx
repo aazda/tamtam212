@@ -9,7 +9,7 @@ import { useReadContract } from "thirdweb/react";
 import { createWallet } from "thirdweb/wallets";
 
 const client = createThirdwebClient({
-  clientId: "a7ff0eb603e6942d48ca89c9ef7e5d05",
+  clientId: "your client id",
 });
 
 const wallets = [
