@@ -1,11 +1,9 @@
 "use client"
 
 import { ConnectButton, TransactionButton, } from "thirdweb/react"
-import { getContractMetadata } from "thirdweb/extensions/common"
 import { createThirdwebClient, getContract } from "thirdweb";
 import { claimTo } from "thirdweb/extensions/erc20";
 import { useActiveAccount } from "thirdweb/react";
-import { useReadContract } from "thirdweb/react";
 import { createWallet } from "thirdweb/wallets";
 import Image from "next/image";
 
@@ -74,7 +72,7 @@ export default function Home() {
   alt="$PUCUK Logo"
   width={96}
   height={96}
-  className="object-contain rounded-xl border border-[#98ff99] shadow-md"
+  className="object-contain rounded-xl border border-[#0a0711] shadow-md"
 />
           </div>
 
