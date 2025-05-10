@@ -21,5 +21,5 @@ An infinite Meme community on TEA-L2
 
 1. **Clone repo**:
    ```bash
-   git clone https://github.com/your-username/tamtam212.git
+   git clone https://github.com/your-aazda/tamtam212.git
    cd tamtam212
